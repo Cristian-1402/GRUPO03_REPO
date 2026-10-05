@@ -23,6 +23,8 @@ public class Grupo03 {
         System.out.println("=========================");
         System.out.println("Cesar Carrasco");
         System.out.println("=========================");
+        System.err.println("Daky Fueres");
+        System.out.println("=========================");
     }
 
 }
