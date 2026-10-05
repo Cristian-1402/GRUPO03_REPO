@@ -18,6 +18,8 @@ public class Grupo03 {
         System.out.println("INTEGRANTES GRUPO 3");
         System.out.println("=========================");
         System.out.println("Cristian Sivinta");
+        System.out.println("=========================");
+        System.out.println("SNAIDER TOAINGA");
     }
-    
+
 }
