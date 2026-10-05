@@ -15,6 +15,9 @@ public class Grupo03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("INTEGRANTES GRUPO 3");
+        System.out.println("=========================");
+        System.out.println("Cristian Sivinta");
     }
     
 }
